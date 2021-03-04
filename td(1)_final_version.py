@@ -3,7 +3,7 @@ import gym
 import numpy as np
 from collections import defaultdict
 
-
+#import environment
 env = gym.make('Blackjack-v0')
 
 def play_episode(env):
